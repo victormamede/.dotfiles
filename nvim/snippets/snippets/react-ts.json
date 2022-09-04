@@ -1,0 +1,7 @@
+{
+  "reactTypescriptFunctionComponent": {
+    "prefix": "!",
+    "body": "export type ${TM_FILENAME_BASE}Props = {}\n\nexport default function ${TM_FILENAME_BASE} ({} : ${TM_FILENAME_BASE}Props) {\n\treturn (\n\t\t<>\n\t\t\t$0\n\t\t</>\n\t)\n}",
+    "description": "Creates a React functional component with typescript props"
+  }
+}

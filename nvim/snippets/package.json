@@ -1,0 +1,16 @@
+{
+  "name": "my-snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": [
+          "typescriptreact"
+        ],
+        "path": "./snippets/react-ts.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}

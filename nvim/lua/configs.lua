@@ -1,0 +1,17 @@
+require("configs/notify")
+require("configs/treesitter")
+require("configs/nvim-tree")
+require("configs/lualine")
+require("configs/telescope")
+require("configs/dashboard")
+require("configs/vimwiki")
+require("configs/bufferline")
+require("configs/gitsigns")
+require("configs/toggleterm")
+require("configs/formatter")
+require("configs/auto-session")
+
+-- Using LSP
+require("configs/lspconfig")
+require("configs/nvim-cmp")
+require("configs/lsp_signatures")
